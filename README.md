@@ -37,6 +37,14 @@ Please consider cite our paper if you find this repo is helpful.
 ### Fruit classification
 
 
+
+
+
 ## Field navigation
 ### Obstacle detection
 fieldsafe https://github.com/mikkelkh/FieldSAFE
+
+
+
+## Acknowledgement
+AGML：https://github.com/Project-AgML/AgML
