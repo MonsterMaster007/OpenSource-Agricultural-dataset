@@ -13,6 +13,10 @@ Please consider cite our paper if you find this repo is helpful.
 - 2024.2.29: An initial version of recent papers or projects.
 ```
 
+## Recent reviews
+[1] Lu, Yuzhen, and Sierra Young. "A survey of public datasets for computer vision tasks in precision agriculture." Computers and Electronics in Agriculture 178 (2020): 105760.
+[2]
+
 ## Contents
 
 * [OpenSource-Agricultural-dataset)
@@ -35,7 +39,8 @@ Please consider cite our paper if you find this repo is helpful.
     * [Obstacle detection](#Obstacle-detection)
   * [aerial image](#aerial-imaging)
     * [UAV](#UAV-image)
-
+  * [synthesized data](#sythesized_data)
+    * [synthesized platform](#sythesized-platform)
 
 # OpenSource-Agricultural-dataset
 ## Fruit recognition
@@ -53,10 +58,13 @@ fieldsafe https://github.com/mikkelkh/FieldSAFE
 
 
 ## aerial image
-### aerial image
-
+### crop field
 agriculture vision: https://github.com/SHI-Labs/Agriculture-Vision
+The Canadian Cropland Dataset: https://github.com/bioinfoUQAM/Canadian-cropland-dataset-github
 
+## synthesized data
+### synthesized platform
+RAPID: https://github.com/BerkeleyAutomation/RAPID
 
 
 ## Acknowledgement
