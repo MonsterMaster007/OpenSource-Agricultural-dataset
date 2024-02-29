@@ -29,7 +29,7 @@ Please consider cite our paper if you find this repo is helpful.
     * [weeddetection](#Fruit-classification)
     * [weedsegmentation](#Fruit-classification)
   * [field navigation](#field-navigation)
-  * [Obstacle navigation](#field-navigation)
+  * [Obstacle ](#field-navigation)
 
 
 # OpenSource-Agricultural-dataset
