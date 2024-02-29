@@ -28,8 +28,13 @@ Please consider cite our paper if you find this repo is helpful.
     * [weed classification](#Fruit-classification)
     * [weeddetection](#Fruit-classification)
     * [weedsegmentation](#Fruit-classification)
+  * [disease monitoring](#disease-control)
+    * [disease monitoring](#disease-monitoring)
+    * [pest monitoring](#pest-monitoring)
   * [field navigation](#field-navigation)
     * [Obstacle detection](#Obstacle-detection)
+  * [aerial image](#aerial-imaging)
+    * [UAV](#UAV-image)
 
 
 # OpenSource-Agricultural-dataset
@@ -43,6 +48,12 @@ Please consider cite our paper if you find this repo is helpful.
 ## Field navigation
 ### Obstacle detection
 fieldsafe https://github.com/mikkelkh/FieldSAFE
+
+
+## aerial image
+### aerial image
+
+agriculture vision: https://github.com/SHI-Labs/Agriculture-Vision
 
 
 
