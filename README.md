@@ -42,7 +42,9 @@ Please consider cite our paper if you find this repo is helpful.
 ### Fruit classification
 
 
-
+## disease monitoring
+### disease monitoring
+digipathos: https://github.com/rodrigobressan/digipathos
 
 
 ## Field navigation
